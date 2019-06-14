@@ -4,7 +4,7 @@ pipeline {
 
     stages {
         stage('SCM Checkout'){
-          git 'https://github.com/pranikita/maven-project'
+          git 'https://github.com/pranikita/maven-project-1'
         }
   }
     {
