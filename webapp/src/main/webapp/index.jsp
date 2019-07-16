@@ -1,2 +1,1 @@
-Hello Jenkins,
-This is Nikita!
+Hello, I am deployed through Helm!!
