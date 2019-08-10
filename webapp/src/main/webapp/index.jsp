@@ -1,1 +1,1 @@
-Hello, I am deployed through Jenkins - githubwebhook
+Hello, I am deployed through Jenkins - poll scm
