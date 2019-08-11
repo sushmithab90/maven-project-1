@@ -1,1 +1,1 @@
-Hello, I am deployed through Jenkins - tomcat
+Hello, I am deployed through Tomcat
