@@ -1,1 +1,1 @@
-Hello, I am deployed through CI/CD - Webhook
+Hello, I am deployed through CI/CD
