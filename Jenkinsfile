@@ -4,10 +4,10 @@ pipeline {
 
     stages {
         stage('SCM Checkout'){
-          git 'https://github.com/pranikita/maven-project-1'
+          steps {
+              git 'https://github.com/pranikita/maven-project-1.git'
+            }
         }
-    }
-    {
         stage ('Compile Stage') {
 
             steps {
